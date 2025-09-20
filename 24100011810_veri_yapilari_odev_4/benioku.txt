@@ -1,0 +1,8 @@
+24100011810 Furkan Ertürk, Veri Yapıları Ödevi-4
+
+Fonksiyonların işlevleri:
+
+push fonksiyonu yeni bir düğüm ekler.
+pop fonksiyonu son eklenen düğümü çıkartır.
+ileri iter değişkenini bir sonraki düğüme geçirir. Eğer son düğümdeyse, uyarı verir.
+geri: iter’i bir önceki düğüme geçirir. Stack’te tek yönlü liste yapısı olduğundan, geri gitmek için top’dan itere kadar olan düğümlerden geçmek gerekir.
